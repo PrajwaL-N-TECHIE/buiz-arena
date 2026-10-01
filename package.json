@@ -12,6 +12,7 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.109.0",
     "canvas-confetti": "^1.9.4",
+    "canvg": "^4.0.3",
     "clsx": "^2.1.1",
     "firebase": "^11.9.1",
     "framer-motion": "^12.4.7",
